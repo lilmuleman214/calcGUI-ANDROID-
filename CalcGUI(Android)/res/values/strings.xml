@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CalcGUI(Android)</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="investment_amount_">Investment Amount:</string>
+    <string name="years_">Years:</string>
+    <string name="title_activity_main1">MainActivity</string>
+    <string name="FutureVal">Future Value:</string>
+    <string name="InterestRt">Interest Rate:</string>
+    <integer-array name="ArrayYrs">
+        <item >1</item>
+        <item >2</item>
+        <item >3</item>
+        <item >4</item>
+        <item >5</item>
+        <item >6</item>
+        <item >7</item>
+        <item >8</item>
+        <item >9</item>
+        <item >10</item>
+    </integer-array>
+
+</resources>
